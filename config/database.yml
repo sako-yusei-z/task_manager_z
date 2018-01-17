@@ -1,7 +1,7 @@
 development:
   adapter: mysql2
   encoding: utf8
-  database: dotinstall
+  database: task_manager_development
   pool: 5
   username: root
   password:
@@ -13,7 +13,7 @@ development:
 test:
   adapter: mysql2
   encoding: utf8
-  database: dotinstall_test
+  database: task_manager_test
   pool: 5
   username: root
   password:
@@ -22,7 +22,7 @@ test:
 production:
   adapter: mysql2
   encoding: utf8
-  database: dotinstall_pro
+  database: task_manager_z
   pool: 5
   username: root
   password:
@@ -31,7 +31,7 @@ production:
 sako:
   adapter: mysql2
   encoding: utf8
-  database: dotinstall_sako
+  database: task_manager_sako
   pool: 5
   username: sako
   password: Agit919
