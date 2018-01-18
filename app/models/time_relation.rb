@@ -1,0 +1,2 @@
+class TimeRelation < ApplicationRecord
+end
