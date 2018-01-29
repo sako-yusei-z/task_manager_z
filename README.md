@@ -1,24 +1,14 @@
-# README
+# タスク管理アプリ TaskManagerZ(仮)
+---
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 作業者
+* 高山
+* 谷中
+* 酒匂
 
-Things you may want to cover:
+## 機能
+* ユーザー登録、認証
+* タスク管理(登録、進捗確認、削除、履歴)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 今後実装予定の機能
+* coming soon...
